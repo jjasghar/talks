@@ -1,12 +1,12 @@
-baseURL = "https://speaking.moficodes.dev"
+baseURL = "https://jjasghar.github.io/talks/"
 languageCode = "en-us"
 title = "Talks"
 theme = "anatole"
 
 [params]
-title = "I'm moficodes"
-author = "Mofi Rahman"
-copyright = "2020-2021"
+title = "JJ's speaking engagements"
+author = "JJ Asghar"
+copyright = "2021-"
 description = "List of past speaking engagements and featured talks."
 profilePicture = "images/profile.png"
 keywords = ""
@@ -24,22 +24,22 @@ doNotLoadAnimations = false
 [[params.socialIcons]]
 icon = "fab fa-twitter"
 title = "Linkedin"
-url = "https://twitter.com/moficodes"
+url = "https://twitter.com/jjasghar"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://linkedin.com/in/moficodes"
+url = "https://linkedin.com/in/jjasghar"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/moficodes"
+url = "https://github.com/jjasghar"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:moficodes@gmail.com"
+url = "mailto:jjasghar@gmail.com"
 
 
 [menu]
@@ -49,21 +49,3 @@ url = "mailto:moficodes@gmail.com"
   identifier = "home"
   weight = 100
   url = "/"
-
-  [[menu.main]]
-  name = "Talks"
-  weight = 200
-  identifier = "talks"
-  url = "/talks/"
-
-  [[menu.main]]
-  name = "Workshops"
-  weight = 200
-  identifier = "workshops"
-  url = "/workshops/"
-
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
