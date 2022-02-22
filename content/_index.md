@@ -4,7 +4,7 @@ date: 2021-03-25T13:03:46-04:00
 draft: false
 ---
 
-# Talks
+## Talks
 
 - All Things Open - 2018 || 2021
 - AutomaCon - [video 2015](https://www.youtube.com/watch?v=qvSGJslwpDA) || [video 2016](https://www.youtube.com/watch?v=D3LS3lHWFnE)
@@ -15,7 +15,7 @@ draft: false
 - ContainerStack Zurich - 2019
 - DevRelCon Tokyo - [video 2021](https://youtu.be/Aoliy98BCwI?t=1315)
 - DevOpsDays Atlanta - 2019
-- DevOpsDays Amsterdam - oNLine 2021 
+- DevOpsDays Amsterdam - oNLine 2021
 - DevOpsDays Austin - [video 2015](https://vimeo.com/130554525) || [video 2016](https://vimeo.com/165731277) || [video 2017](https://youtu.be/Z0Qtf2XJBcA?t=1h10m49s) || 2019
 - DevOpsDays Buffalo - [video 2020](https://youtu.be/Kr9uc285Z2k)
 - DevOpsDays Dallas - 2016 || [video 2019](https://www.youtube.com/watch?v=tcq1-kNQd2Q)
@@ -36,7 +36,7 @@ draft: false
 - HPE and Chef engineering day - [video](https://www.periscope.tv/HPE_ConvergedDI/1YpKkWlEYnjKj)
 - IBM THINK Gov - 2019
 - Interop ITX - 2017
-- KubeCon APAC - 2019 
+- KubeCon APAC - 2019
 - KubeCon NA - 2018 - IBM booth Speaker 2x || 2021 - IBM booth Speaker 4x
 - KubeCon EU - 2019 - IBM booth Speaker 3x || 2021 - IBM booth Speaker 2x
 - LibrePlanet - [video 2020](https://media.libreplanet.org/u/libreplanet/m/lessons-learned-from-cultivating-free-software-projects-and-communities/)
@@ -65,7 +65,7 @@ draft: false
 - VMUG Carolina - 2019
 - VMworld - [video 2017](https://www.vmworldonline.com/searchsite?search=SER1906BU) || [video 2018](https://www.youtube.com/watch?v=II4IsntZnyY) || 2019 || [video 2020](https://youtu.be/aBzJ6wrE6xA)
 
-# Streaming Conferences and/or Webinars
+## Streaming Conferences and/or Webinars
 
 - All Day DevOps - [video 2020](https://content.sonatype.com/2020addo-ct/addo2020-ct-asghar) || 2021
 - allthetalks.online - [video 2020](https://www.youtube.com/watch?v=ly0qNA3gs78)
@@ -107,7 +107,7 @@ draft: false
 - Using Folding@Home with Ansible VMware and IBM Cloud [video](https://www.youtube.com/watch?v=fZVTTwKs2dA)
 - vBrownBag - [video 2018](https://www.youtube.com/watch?v=RwAFGK9mju4)
 
-# Podcasts
+## Podcasts
 
 - Arrested DevOps - [episode 58](https://www.arresteddevops.com/openstack/) (bad audio :( )
 - DevChat.tv: Two DevOps Old Dogs Sharing Tricks with JJ Asghar - [DevOps 048](https://devchat.tv/adventures-in-devops/devops-048-two-devops-old-dogs-sharing-tricks-with-jj-asghar/)
@@ -120,3 +120,9 @@ draft: false
 - OSpod - [interview](https://itunes.apple.com/us/podcast/chef-jj-asghar-episode-48-on-ospod/id913351029?i=1000360509387&mt=2)
 - Stackoverflow Podcast - [episode 230](https://stackoverflow.blog/2020/04/28/podcast-230-mastering-the-mainframe-cobol-ibm/)
 - Software Defined Talk - [episode 21](http://www.softwaredefinedinterviews.com/21) || [episode 63](http://www.softwaredefinedinterviews.com/63) || [episode 263](https://www.softwaredefinedtalk.com/263)
+
+## Articles/Interviews
+
+- Top 20 Developer Advocates for 2020 - [here](https://www.whitesourcesoftware.com/resources/blog/top-20-developer-advocates-to-follow/)
+- The Top 20 Developer Advocates 2020 - [here](https://www.linkedin.com/pulse/top-20-developer-advocates-2020-sebastian-grodzietzki/)
+- SRE, what is it, and how it can help - [here](https://www.toolbox.com/tech/devops/articles/automating-sre-to-scale-operations/)
