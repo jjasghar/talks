@@ -75,6 +75,7 @@ draft: false
 - AzureFunBytes - [episode 46](https://www.youtube.com/watch?v=ZGNuhgR_SdE) [blogpost](https://dev.to/azure/azurefunbytes-episode-46-openshift-on-azure-with-jjasghar-4nh1)
 - Chef and Hashicorp Vault - [webinar](https://www.brighttalk.com/webcast/11349/232851/manage-secrets-with-chef-and-hashicorps-vault)
 - Cloud Engineering Summit (Pulumi)- [Speaker and Emcee] [video 2021](https://www.pulumi.com/resources/migrating-a-monolith-to-cloud-native)
+- CODECAMP_ECONFS - 2022
 - Conf42 SRE - [2021](https://www.conf42.com/Site_Reliability_Engineering_2021_JJ_Asghar_migrating_monolith_cloudnative_stumbling_blocks)
 - Conf42 Python - [2022](https://www.conf42.com/Python_2022_JJ_Asghar_deploying_simple_app_kubernetes_openshift)
 - Contrast Security - Defining and Stopping the “Plague” of Application Security False Positives
