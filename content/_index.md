@@ -108,6 +108,7 @@ draft: false
 - Turbonomic Live - [2020](https://gateway.on24.com/wcc/eh/2339289/lp/2374731/demystifying-devops%2C-kubernetes%2C-and-cloud-native-applications/)
 - Using Folding@Home with Ansible VMware and IBM Cloud [video](https://www.youtube.com/watch?v=fZVTTwKs2dA)
 - vBrownBag - [video 2018](https://www.youtube.com/watch?v=RwAFGK9mju4)
+- Warsaw IT Community - 2022
 
 ## Podcasts
 
