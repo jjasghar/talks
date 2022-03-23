@@ -102,6 +102,7 @@ draft: false
 - OSAD (Open Source Automation Days) - [2021](https://osad-munich.org/en/deploying-a-simple-python-app-to-kubernetes-openshift/)
 - OSCONF (Open Source Community Conference) - [2021](https://www.youtube.com/watch?v=_O1KjDY1Obo)
 - Pyjamas.live - 2021
+- Python Web Conf - [video 2021](https://2021.pythonwebconf.com/presentations/deploying-a-simple-python-app-to-kubernetes-openshift) | [2022 Keynote](https://2022.pythonwebconf.com/presentations/we-accidentally-created-a-serverless-application)
 - StackConf 2020 || 2021
 - Tanzu TV - [Running a Cobol ETL application on Kubernetes.](https://www.youtube.com/watch?v=yhC6SFZI8Mw)
 - The DEVOPS Conference (eficode) - 2021
