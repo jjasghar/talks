@@ -8,6 +8,7 @@ draft: false
 
 - All Things Open - 2018 || 2021
 - AutomaCon - [video 2015](https://www.youtube.com/watch?v=qvSGJslwpDA) || [video 2016](https://www.youtube.com/watch?v=D3LS3lHWFnE)
+- BSides OK - 2022
 - Chef Summit London - 2015
 - ChefConf - [video 2016](https://www.youtube.com/watch?v=HfYI1KcKFoo) || [video 2018](https://www.youtube.com/watch?v=jtgXQpcJFT0)
 - ConfigManagement Camp Ghent - 2015 || [video 2019](https://www.youtube.com/watch?v=W1d7r3mIj0A)
