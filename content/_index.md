@@ -18,6 +18,7 @@ draft: false
 - DevOpsDays Atlanta - 2019
 - DevOpsDays Amsterdam - oNLine 2021
 - DevOpsDays Austin - [video 2015](https://vimeo.com/130554525) || [video 2016](https://vimeo.com/165731277) || [video 2017](https://youtu.be/Z0Qtf2XJBcA?t=1h10m49s) || 2019
+- DevOpsDays Birmingham, AL - 2022 Keynote
 - DevOpsDays Buffalo - [video 2020](https://youtu.be/Kr9uc285Z2k)
 - DevOpsDays Dallas - 2016 || [video 2019](https://www.youtube.com/watch?v=tcq1-kNQd2Q)
 - DevOpsDays Ghent - 2019
