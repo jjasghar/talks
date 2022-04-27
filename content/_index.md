@@ -117,6 +117,7 @@ draft: false
 ## Podcasts
 
 - Arrested DevOps - [episode 58](https://www.arresteddevops.com/openstack/) (bad audio :( )
+- Developer Advocast - [episode 4](https://open.spotify.com/episode/01gsWap8IaGw98K7kgOu2y?si=9e9eaba390c149f6)
 - DevChat.tv: Two DevOps Old Dogs Sharing Tricks with JJ Asghar - [DevOps 048](https://devchat.tv/adventures-in-devops/devops-048-two-devops-old-dogs-sharing-tricks-with-jj-asghar/)
 - Discoposse - [episode 130](https://discopossepodcast.com/episode-130-the-why-and-how-of-developer-advocacy-and-tech-community-with-jj-asghar/)
 - Cloud with Chris - [video 2021](https://youtu.be/W4xoq_iCn7E)
