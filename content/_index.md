@@ -34,6 +34,7 @@ draft: false
 - DevOpsDays Stocklhom - 2019
 - DevOpsDays Toronto - 2016
 - DevOpsDays Vancouver - 2016 || 2019
+- future{stack} - 2022
 - FOSDEM - [2020](http://bofh.nikhef.nl/events/FOSDEM/2020/UB5.230/osslessons.webm)
 - GM and Chef engineering day - 2018
 - HPE and Chef engineering day - [video](https://www.periscope.tv/HPE_ConvergedDI/1YpKkWlEYnjKj)
