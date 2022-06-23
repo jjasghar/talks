@@ -6,7 +6,6 @@ draft: false
 
 ## Talks
 
-
 - ATX PowerShell
 - All Things Open - 2018 || 2021
 - Austin Bare-Metal Club
@@ -138,3 +137,14 @@ draft: false
 - Top 20 Developer Advocates for 2020 - [here](https://www.whitesourcesoftware.com/resources/blog/top-20-developer-advocates-to-follow/)
 - The Top 20 Developer Advocates 2020 - [here](https://www.linkedin.com/pulse/top-20-developer-advocates-2020-sebastian-grodzietzki/)
 - SRE, what is it, and how it can help - [here](https://www.toolbox.com/tech/devops/articles/automating-sre-to-scale-operations/)
+
+## IBM Videos
+
+- [Developer Diaries: The Multicloud Advantage](https://youtu.be/GQodXQ5iyTI)
+- [Developer Diaries: Observability-Driven Development w/ Instana](https://youtu.be/tM3XjSmlbCk)
+- [Code@Think Office Hours May 11th, 2021](https://youtu.be/KV3-ohi2aQY)
+- [Code@Think Office Hours May 12th, 2021](https://youtu.be/I2zjMc7yJ_U)
+- [Wild and Dangerous, w/ Marty and JJ: Helm: The Story, Part 1](https://youtu.be/KU5hHtrX8ZQ)
+- [Developer Diaries: The Case of the Miscoded Credentials](https://youtu.be/43jdluldDBc)
+- [Developer Diaries: When Serverless Makes Sense](https://youtu.be/cq2SrECwf-E)
+- [Developer Diaries: The Versatility of OpenShift](https://youtu.be/p6vn1tDr24U)
