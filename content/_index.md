@@ -59,6 +59,7 @@ draft: false
 - OpenStack Summit Toyko - [video](https://www.youtube.com/watch?v=ivYYS_F7Rpw)
 - OpenStack Summit Vancouver - [video](https://youtu.be/FBCKCO45xIw?t=34m35s)
 - Portland Chef Meetup
+- SCaLE - 17x || 19x
 - SeaGL - 2018
 - StackConf - 2022 Full and Ignite
 - TalkDevOps Toronto - [video](https://channel9.msdn.com/Blogs/TalkDevOps/TalkDevOps--Introduction-to-Chef-with-JJ-Ashgar-as-a-DotNet-Developer)
