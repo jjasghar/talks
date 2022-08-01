@@ -139,6 +139,7 @@ draft: false
 - Top 20 Developer Advocates for 2020 - [here](https://www.whitesourcesoftware.com/resources/blog/top-20-developer-advocates-to-follow/)
 - The Top 20 Developer Advocates 2020 - [here](https://www.linkedin.com/pulse/top-20-developer-advocates-2020-sebastian-grodzietzki/)
 - SRE, what is it, and how it can help - [here](https://www.toolbox.com/tech/devops/articles/automating-sre-to-scale-operations/)
+- OSOps Gives Operators a Powerful Tool to Poke OpenStack Developers - [here](https://thenewstack.io/osops-operations-teams-dangerous-go-alone-take/)
 
 ## IBM Videos
 
