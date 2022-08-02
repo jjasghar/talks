@@ -108,7 +108,7 @@ draft: false
 - OpenShift Exploration and Learnings - [Part 1](https://www.youtube.com/watch?v=d7nxzB0YtR0)
 - OpenShift.tv - [video 2020](https://www.youtube.com/watch?v=erO6XXj8Kl0)
 - Pyjamas.live - 2021
-- Python Web Conf - [video 2021](https://2021.pythonwebconf.com/presentations/deploying-a-simple-python-app-to-kubernetes-openshift) | [2022 Keynote](https://2022.pythonwebconf.com/presentations/we-accidentally-created-a-serverless-application)
+- Python Web Conf - [video 2021](https://2021.pythonwebconf.com/presentations/deploying-a-simple-python-app-to-kubernetes-openshift) | [2022 Keynote](https://2022.pythonwebconf.com/presentations/we-accidentally-created-a-serverless-application) [video](https://youtu.be/PmT2MD6_k8M)
 - StackConf 2020 || 2021
 - Tanzu TV - [Running a Cobol ETL application on Kubernetes.](https://www.youtube.com/watch?v=yhC6SFZI8Mw)
 - The DEVOPS Conference (eficode) - 2021
