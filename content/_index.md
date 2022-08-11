@@ -47,6 +47,7 @@ draft: false
 - IBM THINK Gov - 2019
 - Indianapolis DevOps Meetup
 - Interop ITX - 2017
+- KCDC - 2022
 - KubeCon APAC - 2019
 - KubeCon EU - 2019 - IBM booth Speaker 3x || 2021 - IBM booth Speaker 2x
 - KubeCon NA - 2018 - IBM booth Speaker 2x || 2021 - IBM booth Speaker 4x
