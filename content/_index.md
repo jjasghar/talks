@@ -141,6 +141,8 @@ draft: false
 - The Top 20 Developer Advocates 2020 - [here](https://www.linkedin.com/pulse/top-20-developer-advocates-2020-sebastian-grodzietzki/)
 - SRE, what is it, and how it can help - [here](https://www.toolbox.com/tech/devops/articles/automating-sre-to-scale-operations/)
 - OSOps Gives Operators a Powerful Tool to Poke OpenStack Developers - [here](https://thenewstack.io/osops-operations-teams-dangerous-go-alone-take/)
+- Why IT Leaders Are Fast-Tracking Application Modernization Solutions - [here](https://www.ibm.com/cloud/blog/why-it-leaders-are-fast-tracking-application-modernization-solutions)
+- Cultivating Careers, Communities and Companies with Open Source - [here](https://www.ibm.com/cloud/blog/cultivating-careers-communities-and-companies-with-open-source)
 
 ## IBM Videos
 
