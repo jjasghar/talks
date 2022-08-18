@@ -20,6 +20,7 @@ draft: false
 - ConfigManagement Camp Ghent - 2015 || [video 2019](https://www.youtube.com/watch?v=W1d7r3mIj0A)
 - ConfigManagement Camp Portland - 2017
 - ContainerStack Zurich - 2019
+- DevConf.US - 2022
 - DevOpsDays Amsterdam - oNLine 2021
 - DevOpsDays Atlanta - 2019
 - DevOpsDays Austin - [video 2015](https://vimeo.com/130554525) || [video 2016](https://vimeo.com/165731277) || [video 2017](https://youtu.be/Z0Qtf2XJBcA?t=1h10m49s) || 2019
