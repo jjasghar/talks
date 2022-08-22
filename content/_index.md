@@ -144,6 +144,7 @@ draft: false
 - OSOps Gives Operators a Powerful Tool to Poke OpenStack Developers - [here](https://thenewstack.io/osops-operations-teams-dangerous-go-alone-take/)
 - Why IT Leaders Are Fast-Tracking Application Modernization Solutions - [here](https://www.ibm.com/cloud/blog/why-it-leaders-are-fast-tracking-application-modernization-solutions)
 - Cultivating Careers, Communities and Companies with Open Source - [here](https://www.ibm.com/cloud/blog/cultivating-careers-communities-and-companies-with-open-source)
+- How to enter an Open Source Community - [here](https://developer.ibm.com/blogs/how-to-enter-an-open-source-community/)
 
 ## IBM Videos
 
