@@ -156,3 +156,4 @@ draft: false
 - [Developer Diaries: The Case of the Miscoded Credentials](https://youtu.be/43jdluldDBc)
 - [Developer Diaries: When Serverless Makes Sense](https://youtu.be/cq2SrECwf-E)
 - [Developer Diaries: The Versatility of OpenShift](https://youtu.be/p6vn1tDr24U)
+- [Building Bridges: Open Source Security and the Power of Community](https://developer.ibm.com/videos/walk-and-talk-secure-open-source-with-todd-moore/)
