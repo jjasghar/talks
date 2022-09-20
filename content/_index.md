@@ -63,6 +63,7 @@ draft: false
 - Portland Chef Meetup
 - SCaLE - 17x || 19x
 - SeaGL - 2018
+- SRE Day - 2022
 - StackConf - 2022 Full and Ignite
 - TalkDevOps Toronto - [video](https://channel9.msdn.com/Blogs/TalkDevOps/TalkDevOps--Introduction-to-Chef-with-JJ-Ashgar-as-a-DotNet-Developer)
 - Texas Linux Fest - 2015 || 2016 || 2018
