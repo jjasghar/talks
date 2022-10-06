@@ -52,6 +52,7 @@ draft: false
 - KubeCon APAC - 2019
 - KubeCon EU - 2019 - IBM booth Speaker 3x || 2021 - IBM booth Speaker 2x
 - KubeCon NA - 2018 - IBM booth Speaker 2x || 2021 - IBM booth Speaker 4x
+- KubeHuddle - 2022
 - LibrePlanet - [video 2020](https://media.libreplanet.org/u/libreplanet/m/lessons-learned-from-cultivating-free-software-projects-and-communities/)
 - London Chef Meetup
 - LonghornPHP - 2021
@@ -60,6 +61,7 @@ draft: false
 - OpenStack Summit Paris
 - OpenStack Summit Toyko - [video](https://www.youtube.com/watch?v=ivYYS_F7Rpw)
 - OpenStack Summit Vancouver - [video](https://youtu.be/FBCKCO45xIw?t=34m35s)
+- OSS EU 2022
 - Portland Chef Meetup
 - SCaLE - 17x || 19x
 - SeaGL - 2018
