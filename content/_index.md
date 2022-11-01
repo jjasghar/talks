@@ -51,7 +51,7 @@ draft: false
 - KCDC - 2022
 - KubeCon APAC - 2019
 - KubeCon EU - 2019 - IBM booth Speaker 3x || 2021 - IBM booth Speaker 2x
-- KubeCon NA - 2018 - IBM booth Speaker 2x || 2021 - IBM booth Speaker 4x
+- KubeCon NA - 2018 - IBM booth Speaker 2x || 2021 - IBM booth Speaker 4x || 2022 - IBM booth Speaker 1x
 - KubeHuddle - 2022
 - LibrePlanet - [video 2020](https://media.libreplanet.org/u/libreplanet/m/lessons-learned-from-cultivating-free-software-projects-and-communities/)
 - London Chef Meetup
@@ -148,6 +148,7 @@ draft: false
 - Why IT Leaders Are Fast-Tracking Application Modernization Solutions - [here](https://www.ibm.com/cloud/blog/why-it-leaders-are-fast-tracking-application-modernization-solutions)
 - Cultivating Careers, Communities and Companies with Open Source - [here](https://www.ibm.com/cloud/blog/cultivating-careers-communities-and-companies-with-open-source)
 - How to enter an Open Source Community - [here](https://developer.ibm.com/blogs/how-to-enter-an-open-source-community/)
+- The Overflow (Stack Overflow) - [here](https://stackoverflow.blog/2022/11/01/homelabbbing-jj-asghar)
 
 ## IBM Videos
 
