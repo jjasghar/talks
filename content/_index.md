@@ -152,12 +152,13 @@ draft: false
 
 ## IBM Videos
 
-- [Developer Diaries: The Multicloud Advantage](https://youtu.be/GQodXQ5iyTI)
-- [Developer Diaries: Observability-Driven Development w/ Instana](https://youtu.be/tM3XjSmlbCk)
+- [Building Bridges: Open Source Security and the Power of Community](https://developer.ibm.com/videos/walk-and-talk-secure-open-source-with-todd-moore/)
 - [Code@Think Office Hours May 11th, 2021](https://youtu.be/KV3-ohi2aQY)
 - [Code@Think Office Hours May 12th, 2021](https://youtu.be/I2zjMc7yJ_U)
-- [Wild and Dangerous, w/ Marty and JJ: Helm: The Story, Part 1](https://youtu.be/KU5hHtrX8ZQ)
+- [Developer Diaries: Observability-Driven Development w/ Instana](https://youtu.be/tM3XjSmlbCk)
 - [Developer Diaries: The Case of the Miscoded Credentials](https://youtu.be/43jdluldDBc)
-- [Developer Diaries: When Serverless Makes Sense](https://youtu.be/cq2SrECwf-E)
+- [Developer Diaries: The Multicloud Advantage](https://youtu.be/GQodXQ5iyTI)
 - [Developer Diaries: The Versatility of OpenShift](https://youtu.be/p6vn1tDr24U)
-- [Building Bridges: Open Source Security and the Power of Community](https://developer.ibm.com/videos/walk-and-talk-secure-open-source-with-todd-moore/)
+- [Developer Diaries: When Serverless Makes Sense](https://youtu.be/cq2SrECwf-E)
+- [Open Minds: Hybrid Cloud](https://www.ibm.com/resources/modernize/jjasghar)
+- [Wild and Dangerous, w/ Marty and JJ: Helm: The Story, Part 1](https://youtu.be/KU5hHtrX8ZQ)
