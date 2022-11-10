@@ -79,7 +79,7 @@ draft: false
 
 ## Streaming Conferences and/or Webinars
 
-- All Day DevOps - [video 2020](https://content.sonatype.com/2020addo-ct/addo2020-ct-asghar) || 2021
+- All Day DevOps - [video 2020](https://content.sonatype.com/2020addo-ct/addo2020-ct-asghar) || 2021 || 2022
 - Angelbeat - [video 2020](https://youtu.be/LVXiOyzuF_E) || [video 2021](https://youtu.be/spHxba0eARg)
 - Ansiblefest - [video 2021](https://events.ansiblefest.redhat.com/widget/redhat/ansible21/sessioncatalog/session/1623166230807001Iqrk)
 - Apps ON Cloud Summit 2021
