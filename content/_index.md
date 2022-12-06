@@ -149,6 +149,7 @@ draft: false
 - Cultivating Careers, Communities and Companies with Open Source - [here](https://www.ibm.com/cloud/blog/cultivating-careers-communities-and-companies-with-open-source)
 - How to enter an Open Source Community - [here](https://developer.ibm.com/blogs/how-to-enter-an-open-source-community/)
 - The Overflow (Stack Overflow) - [here](https://stackoverflow.blog/2022/11/01/homelabbbing-jj-asghar)
+- How IT leaders can fast-track application modernization solutions (Business Insider) - [here](https://www.businessinsider.com/sc/how-it-leaders-can-fast-track-application-modernization-solutions)
 
 ## IBM Videos
 
@@ -160,5 +161,6 @@ draft: false
 - [Developer Diaries: The Multicloud Advantage](https://youtu.be/GQodXQ5iyTI)
 - [Developer Diaries: The Versatility of OpenShift](https://youtu.be/p6vn1tDr24U)
 - [Developer Diaries: When Serverless Makes Sense](https://youtu.be/cq2SrECwf-E)
+- [GitOps and Cloud Adoption: You Need Both](https://www.youtube.com/watch?v=BYTgP6GmwcQ)
 - [Open Minds: Hybrid Cloud](https://www.ibm.com/resources/modernize/jjasghar)
 - [Wild and Dangerous, w/ Marty and JJ: Helm: The Story, Part 1](https://youtu.be/KU5hHtrX8ZQ)
