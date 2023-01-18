@@ -69,7 +69,7 @@ draft: false
 - StackConf - 2022 Full and Ignite
 - TalkDevOps Toronto - [video](https://channel9.msdn.com/Blogs/TalkDevOps/TalkDevOps--Introduction-to-Chef-with-JJ-Ashgar-as-a-DotNet-Developer)
 - Texas Linux Fest - 2015 || 2016 || 2018
-- that.us Texas - 2022
+- that.us Texas - 2022 || 2023
 - The Cloud First EU - [video 2021](https://youtu.be/OGFkz81mKf8?t=22331)
 - VMUG Austin - 2018
 - VMUG Carolina - 2019
