@@ -135,7 +135,7 @@ draft: false
 - Inside Appsec - [episode 16](https://soundcloud.com/contrastsecurity/devops-trends-and-best-practices-a-perspective-from-the-trenches)
 - OSpod - [interview](https://itunes.apple.com/us/podcast/chef-jj-asghar-episode-48-on-ospod/id913351029?i=1000360509387&mt=2)
 - OnCall Nightmares - [2019](https://www.podomatic.com/podcasts/oncallnightmares/episodes/2019-10-24T11_14_36-07_00)
-- Software Defined Talk - [episode 21](http://www.softwaredefinedinterviews.com/21) || [episode 63](http://www.softwaredefinedinterviews.com/63) || [episode 263](https://www.softwaredefinedtalk.com/263) || [Guest Host for that.us Texas recording 2022](https://www.youtube.com/watch?v=n_RwGqqCTBM&t=1384s)
+- Software Defined Talk - [episode 21](http://www.softwaredefinedinterviews.com/21) || [episode 63](http://www.softwaredefinedinterviews.com/63) || [episode 263](https://www.softwaredefinedtalk.com/263) || [Guest Host for that.us Texas recording 2022](https://www.youtube.com/watch?v=n_RwGqqCTBM&t=1384s) || [episode 398](https://www.softwaredefinedtalk.com/398)
 - Stackoverflow Podcast - [episode 230](https://stackoverflow.blog/2020/04/28/podcast-230-mastering-the-mainframe-cobol-ibm/)
 - ~~Drunk and Retired~~ The Hallway Track - [host page](https://drunkandretired.com/hosts/jjasghar)
 
