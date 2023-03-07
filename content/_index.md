@@ -150,6 +150,7 @@ draft: false
 - How to enter an Open Source Community - [here](https://developer.ibm.com/blogs/how-to-enter-an-open-source-community/)
 - The Overflow (Stack Overflow) - [here](https://stackoverflow.blog/2022/11/01/homelabbbing-jj-asghar)
 - How IT leaders can fast-track application modernization solutions (Business Insider) - [here](https://www.businessinsider.com/sc/how-it-leaders-can-fast-track-application-modernization-solutions)
+- See you at SCaLE! - [here](https://github.blog/2023-03-03-see-you-at-scale/)
 
 ## IBM Videos
 
