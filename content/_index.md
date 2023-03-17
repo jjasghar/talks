@@ -63,7 +63,7 @@ draft: false
 - OpenStack Summit Vancouver - [video](https://youtu.be/FBCKCO45xIw?t=34m35s)
 - OSS EU 2022
 - Portland Chef Meetup
-- SCaLE - 17x || 19x
+- SCaLE - 17x || 19x || 20x
 - SeaGL - 2018
 - SRE Day - 2022
 - StackConf - 2022 Full and Ignite
@@ -114,7 +114,7 @@ draft: false
 - OpenShift.tv - [video 2020](https://www.youtube.com/watch?v=erO6XXj8Kl0)
 - Pyjamas.live - 2021
 - Python Web Conf - [video 2021](https://2021.pythonwebconf.com/presentations/deploying-a-simple-python-app-to-kubernetes-openshift) | [2022 Keynote](https://2022.pythonwebconf.com/presentations/we-accidentally-created-a-serverless-application) [video](https://youtu.be/PmT2MD6_k8M)
-- StackConf 2020 || 2021
+- StackConf 2020 || 2021 || [2023 Keynote](https://2023.pythonwebconf.com/presentations/taking-a-step-back-and-leveraging-gitops-to-wrangle-your-clusters-and-projects)
 - Tanzu TV - [Running a Cobol ETL application on Kubernetes.](https://www.youtube.com/watch?v=yhC6SFZI8Mw)
 - The DEVOPS Conference (eficode) - 2021
 - Turbonomic Live - [2020](https://gateway.on24.com/wcc/eh/2339289/lp/2374731/demystifying-devops%2C-kubernetes%2C-and-cloud-native-applications/)
