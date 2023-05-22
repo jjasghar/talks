@@ -21,7 +21,7 @@ draft: false
 - ConfigManagement Camp Portland - 2017
 - ContainerStack Zurich - 2019
 - DevConf.US - 2022
-- DevOps MidWest - [2023](https://www.sketchdev.io/devops-midwest-speaker-bio-page)
+- DevOps MidWest - [Keynote 2023](https://www.sketchdev.io/devops-midwest-speaker-bio-page)
 - DevOpsDays Amsterdam - oNLine 2021
 - DevOpsDays Atlanta - 2019
 - DevOpsDays Austin - [video 2015](https://vimeo.com/130554525) || [video 2016](https://vimeo.com/165731277) || [video 2017](https://youtu.be/Z0Qtf2XJBcA?t=1h10m49s) || 2019
