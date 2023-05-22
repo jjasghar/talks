@@ -51,7 +51,7 @@ draft: false
 - Interop ITX - 2017
 - KCDC - 2022
 - KubeCon APAC - 2019
-- KubeCon EU - 2019 - IBM booth Speaker 3x || 2021 - IBM booth Speaker 2x
+- KubeCon EU - 2019 - IBM booth Speaker 3x || 2021 - IBM booth Speaker 2x || 2023 - IBM booth Speaker 2x
 - KubeCon NA - 2018 - IBM booth Speaker 2x || 2021 - IBM booth Speaker 4x || 2022 - IBM booth Speaker 1x
 - KubeHuddle - 2022
 - LibrePlanet - [video 2020](https://media.libreplanet.org/u/libreplanet/m/lessons-learned-from-cultivating-free-software-projects-and-communities/)
@@ -114,8 +114,8 @@ draft: false
 - OpenShift Exploration and Learnings - [Part 1](https://www.youtube.com/watch?v=d7nxzB0YtR0)
 - OpenShift.tv - [video 2020](https://www.youtube.com/watch?v=erO6XXj8Kl0)
 - Pyjamas.live - 2021
-- Python Web Conf - [video 2021](https://2021.pythonwebconf.com/presentations/deploying-a-simple-python-app-to-kubernetes-openshift) | [2022 Keynote](https://2022.pythonwebconf.com/presentations/we-accidentally-created-a-serverless-application) [video](https://youtu.be/PmT2MD6_k8M)
-- StackConf 2020 || 2021 || [2023 Keynote](https://2023.pythonwebconf.com/presentations/taking-a-step-back-and-leveraging-gitops-to-wrangle-your-clusters-and-projects)
+- Python Web Conf - [video 2021](https://2021.pythonwebconf.com/presentations/deploying-a-simple-python-app-to-kubernetes-openshift) | [2022 Keynote](https://2022.pythonwebconf.com/presentations/we-accidentally-created-a-serverless-application) [video](https://youtu.be/PmT2MD6_k8M) || [2023 Keynote](https://2023.pythonwebconf.com/presentations/taking-a-step-back-and-leveraging-gitops-to-wrangle-your-clusters-and-projects)
+- StackConf 2020 || 2021 
 - Tanzu TV - [Running a Cobol ETL application on Kubernetes.](https://www.youtube.com/watch?v=yhC6SFZI8Mw)
 - The DEVOPS Conference (eficode) - 2021
 - Turbonomic Live - [2020](https://gateway.on24.com/wcc/eh/2339289/lp/2374731/demystifying-devops%2C-kubernetes%2C-and-cloud-native-applications/)
