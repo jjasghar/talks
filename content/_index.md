@@ -64,7 +64,7 @@ draft: false
 - OpenStack Summit Vancouver - [video](https://youtu.be/FBCKCO45xIw?t=34m35s)
 - OSS EU 2022
 - Portland Chef Meetup
-- SCaLE - 17x || 19x || 20x
+- SCaLE - 17x || 19x || 20x || 21x
 - SeaGL - 2018
 - SRE Day - 2022
 - StackConf - 2022 Full and Ignite
