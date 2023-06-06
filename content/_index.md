@@ -91,6 +91,7 @@ draft: false
 - Conf42 Cloud-Native - 2022
 - Conf42 Python - [2022](https://www.conf42.com/Python_2022_JJ_Asghar_deploying_simple_app_kubernetes_openshift)
 - Conf42 SRE - [2021](https://www.conf42.com/Site_Reliability_Engineering_2021_JJ_Asghar_migrating_monolith_cloudnative_stumbling_blocks)
+- conferconf - 2023
 - Contrast Security - Defining and Stopping the “Plague” of Application Security False Positives
 - DevRelCon Tokyo - [interview 2021](https://www.youtube.com/watch?v=yzWFnsivCZQ) [video 2021](https://youtu.be/oJb2rA0yY-k)
 - Developer Week 2021 (Austin, Texas)
