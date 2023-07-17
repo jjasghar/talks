@@ -43,6 +43,7 @@ draft: false
 - DevOpsDays Vancouver - 2016 || 2019
 - DevRelCon Tokyo - [video 2021](https://youtu.be/Aoliy98BCwI?t=1315)
 - EmacsATX - [video 2014](https://www.youtube.com/watch?v=VO7xj2ArpZw)
+- FOSSY - 2023
 - FOSDEM - [2020](http://bofh.nikhef.nl/events/FOSDEM/2020/UB5.230/osslessons.webm)
 - GM and Chef engineering day - 2018
 - HPE and Chef engineering day - [video](https://www.periscope.tv/HPE_ConvergedDI/1YpKkWlEYnjKj)
@@ -116,7 +117,7 @@ draft: false
 - OpenShift.tv - [video 2020](https://www.youtube.com/watch?v=erO6XXj8Kl0)
 - Pyjamas.live - 2021
 - Python Web Conf - [video 2021](https://2021.pythonwebconf.com/presentations/deploying-a-simple-python-app-to-kubernetes-openshift) | [2022 Keynote](https://2022.pythonwebconf.com/presentations/we-accidentally-created-a-serverless-application) [video](https://youtu.be/PmT2MD6_k8M) || [2023 Keynote](https://2023.pythonwebconf.com/presentations/taking-a-step-back-and-leveraging-gitops-to-wrangle-your-clusters-and-projects)
-- StackConf 2020 || 2021 
+- StackConf 2020 || 2021
 - Tanzu TV - [Running a Cobol ETL application on Kubernetes.](https://www.youtube.com/watch?v=yhC6SFZI8Mw)
 - The DEVOPS Conference (eficode) - 2021
 - Turbonomic Live - [2020](https://gateway.on24.com/wcc/eh/2339289/lp/2374731/demystifying-devops%2C-kubernetes%2C-and-cloud-native-applications/)
