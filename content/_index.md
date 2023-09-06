@@ -89,6 +89,7 @@ draft: false
 - CODECAMP_ECONFS - 2022
 - Chef and Hashicorp Vault - [webinar](https://www.brighttalk.com/webcast/11349/232851/manage-secrets-with-chef-and-hashicorps-vault)
 - Cloud Engineering Summit (Pulumi)- [Speaker and Emcee] [video 2021](https://www.pulumi.com/resources/migrating-a-monolith-to-cloud-native)
+- Cloud Builders Python Conference Ukraine - 2023
 - Conf42 Cloud-Native - 2022
 - Conf42 Python - [2022](https://www.conf42.com/Python_2022_JJ_Asghar_deploying_simple_app_kubernetes_openshift)
 - Conf42 SRE - [2021](https://www.conf42.com/Site_Reliability_Engineering_2021_JJ_Asghar_migrating_monolith_cloudnative_stumbling_blocks)
