@@ -135,6 +135,7 @@ draft: false
 - DevChat.tv: Two DevOps Old Dogs Sharing Tricks with JJ Asghar - [DevOps 048](https://devchat.tv/adventures-in-devops/devops-048-two-devops-old-dogs-sharing-tricks-with-jj-asghar/)
 - Developer Advocast - [episode 4](https://open.spotify.com/episode/01gsWap8IaGw98K7kgOu2y?si=9e9eaba390c149f6)
 - DevCentral Connects - episode 128 Stumbling Blocks in App Modernization w JJ Asghar - May 30, 2023
+- DevOps Dispatch - [A KubeCon Review from Swag to Tech](https://youtu.be/JZ4X5U6UO5s?si=F3n8BMcwRzclLbi4) - KubeCon EU 2023
 - Discoposse - [episode 130](https://discopossepodcast.com/episode-130-the-why-and-how-of-developer-advocacy-and-tech-community-with-jj-asghar/)
 - Foodfight Show - [interview](http://foodfightshow.org/2015/12/chef-and-openstack.html)
 - Inside Appsec - [episode 16](https://soundcloud.com/contrastsecurity/devops-trends-and-best-practices-a-perspective-from-the-trenches)
