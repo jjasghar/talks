@@ -158,6 +158,7 @@ draft: false
 - The Overflow (Stack Overflow) - [here](https://stackoverflow.blog/2022/11/01/homelabbbing-jj-asghar)
 - How IT leaders can fast-track application modernization solutions (Business Insider) - [here](https://www.businessinsider.com/sc/how-it-leaders-can-fast-track-application-modernization-solutions)
 - See you at SCaLE! - [here](https://github.blog/2023-03-03-see-you-at-scale/)
+- Global DevSlam returns to unite the leading minds of innovators - [here](https://dataconomy.com/2023/10/13/global-devslam-returns-to-unite-the-leading-minds-of-innovators/)
 
 ## IBM Videos
 
