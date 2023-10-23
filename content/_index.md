@@ -46,6 +46,7 @@ draft: false
 - FOSSY - 2023
 - FOSDEM - [2020](http://bofh.nikhef.nl/events/FOSDEM/2020/UB5.230/osslessons.webm)
 - GM and Chef engineering day - 2018
+- Gitex EMEA - 2023
 - HPE and Chef engineering day - [video](https://www.periscope.tv/HPE_ConvergedDI/1YpKkWlEYnjKj)
 - IBM THINK Gov - 2019
 - Indianapolis DevOps Meetup
