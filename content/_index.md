@@ -172,6 +172,7 @@ draft: false
 - [Developer Diaries: When Serverless Makes Sense](https://youtu.be/cq2SrECwf-E)
 - [GitOps and Cloud Adoption: You Need Both](https://www.youtube.com/watch?v=BYTgP6GmwcQ)
 - [Open Minds: Hybrid Cloud](https://www.ibm.com/resources/modernize/jjasghar)
+- [What excites developers about watsonx?](https://youtu.be/kbksx4xn9UQ)
 - [Wild and Dangerous, w/ Marty and JJ: Helm: The Story, Part 1](https://youtu.be/KU5hHtrX8ZQ)
 
 
