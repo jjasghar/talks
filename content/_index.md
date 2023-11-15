@@ -99,6 +99,7 @@ draft: false
 - DevRelCon Tokyo - [interview 2021](https://www.youtube.com/watch?v=yzWFnsivCZQ) [video 2021](https://youtu.be/oJb2rA0yY-k)
 - Developer Week 2021 (Austin, Texas)
 - Developer Week 2021 (DE)
+- Developer Week Enterprise 2023
 - Flyless Dev - 2021
 - GSDC DTO Summit Keynote - [video 2021](https://vimeo.com/572047609/ef164c1662)
 - Google Cloud Platform and Chef - [webinar](https://www.brighttalk.com/webcast/10619/283199)
