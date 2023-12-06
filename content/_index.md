@@ -161,7 +161,7 @@ draft: false
 - How IT leaders can fast-track application modernization solutions (Business Insider) - [here](https://www.businessinsider.com/sc/how-it-leaders-can-fast-track-application-modernization-solutions)
 - See you at SCaLE! - [here](https://github.blog/2023-03-03-see-you-at-scale/)
 - Global DevSlam returns to unite the leading minds of innovators - [here](https://dataconomy.com/2023/10/13/global-devslam-returns-to-unite-the-leading-minds-of-innovators/)
-- IBM, Wastsonx, and the latest AI Trends with JJ - [here](https://www.youtube.com/watch?v=Ql-YbP6D_uo)
+- IBM, Wastsonx, and the latest AI Trends with JJ - [here](https://youtu.be/yXBhBnexjbY?si=9SuV8HY9lWI9bjSz)
 
 ## IBM Videos
 
