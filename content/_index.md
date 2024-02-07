@@ -17,7 +17,7 @@ draft: false
 - Chef Summit London - 2015
 - ChefConf - [video 2016](https://www.youtube.com/watch?v=HfYI1KcKFoo) || [video 2018](https://www.youtube.com/watch?v=jtgXQpcJFT0)
 - Cloud Austin
-- ConfigManagement Camp Ghent - 2015 || [video 2019](https://www.youtube.com/watch?v=W1d7r3mIj0A)
+- ConfigManagement Camp Ghent - 2015 || [video 2019](https://www.youtube.com/watch?v=W1d7r3mIj0A) || 2024
 - ConfigManagement Camp Portland - 2017
 - ContainerStack Zurich - 2019
 - DevConf.US - 2022
@@ -44,7 +44,7 @@ draft: false
 - DevRelCon Tokyo - [video 2021](https://youtu.be/Aoliy98BCwI?t=1315)
 - EmacsATX - [video 2014](https://www.youtube.com/watch?v=VO7xj2ArpZw)
 - FOSSY - 2023
-- FOSDEM - [2020](http://bofh.nikhef.nl/events/FOSDEM/2020/UB5.230/osslessons.webm)
+- FOSDEM - [2020](http://bofh.nikhef.nl/events/FOSDEM/2020/UB5.230/osslessons.webm) || Emcee AI and ML Room [2024](https://ftp.osuosl.org/pub/fosdem/2024/ub2252a/)
 - GM and Chef engineering day - 2018
 - Gitex EMEA - 2023
 - HPE and Chef engineering day - [video](https://www.periscope.tv/HPE_ConvergedDI/1YpKkWlEYnjKj)
