@@ -17,7 +17,7 @@ draft: false
 - Chef Summit London - 2015
 - ChefConf - [video 2016](https://www.youtube.com/watch?v=HfYI1KcKFoo) || [video 2018](https://www.youtube.com/watch?v=jtgXQpcJFT0)
 - Cloud Austin
-- ConfigManagement Camp Ghent - 2015 || [video 2019](https://www.youtube.com/watch?v=W1d7r3mIj0A) || 2024
+- ConfigManagement Camp Ghent - 2015 || [video 2019](https://www.youtube.com/watch?v=W1d7r3mIj0A) || [video 2024](https://www.youtube.com/watch?v=U-H3s5V0w3Y)
 - ConfigManagement Camp Portland - 2017
 - ContainerStack Zurich - 2019
 - DevConf.US - 2022
@@ -33,7 +33,7 @@ draft: false
 - DevOpsDays Hardford - 2019
 - DevOpsDays Houston - 2019 || 2021
 - DevOpsDays Indianapolis - 2019
-- DevOpsDays Kansas City - 2019
+- DevOpsDays Kansas City - 2019 || 2024
 - DevOpsDays Medellín - 2021
 - DevOpsDays Portland - [video 2016](https://www.youtube.com/watch?v=JqwgmePMEw4) || 2017 || 2019
 - DevOpsDays Poznan - 2021
@@ -56,6 +56,7 @@ draft: false
 - KubeCon EU - 2019 - IBM booth Speaker 3x || 2021 - IBM booth Speaker 2x || 2023 - IBM booth Speaker 2x
 - KubeCon NA - 2018 - IBM booth Speaker 2x || 2021 - IBM booth Speaker 4x || 2022 - IBM booth Speaker 1x
 - KubeHuddle - 2022
+- LEAP 2024
 - LibrePlanet - [video 2020](https://media.libreplanet.org/u/libreplanet/m/lessons-learned-from-cultivating-free-software-projects-and-communities/)
 - London Chef Meetup
 - LonghornPHP - 2021
@@ -68,6 +69,7 @@ draft: false
 - Portland Chef Meetup
 - SCaLE - 17x || 19x || 20x || 21x
 - SeaGL - 2018
+- Sketch Conference 2023 || 2024
 - SRE Day - 2022
 - StackConf - 2022 Full and Ignite
 - TalkDevOps Toronto - [video](https://channel9.msdn.com/Blogs/TalkDevOps/TalkDevOps--Introduction-to-Chef-with-JJ-Ashgar-as-a-DotNet-Developer)
